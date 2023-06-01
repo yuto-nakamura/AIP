@@ -1,0 +1,4 @@
+"AadClientId": "422af4fa-2577-4440-a8cf-549c1859c367",
+"AadSecret": "5d1f04db-e3ce-468b-90de-836dbffdbc56",
+"AadTenantDomain": "mdpttest.onmicrosoft.com",
+"AadTenantId": "968ed4be-79f0-43b9-9cf4-b7f435982a2c",
